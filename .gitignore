@@ -53,6 +53,5 @@ api_key.txt
 case_id.txt
 .ipynb_checkpoints/
 
-#  geo data
-World_Water_Bodies/
-World_Cities.geojson
+#  original geo data
+data/
