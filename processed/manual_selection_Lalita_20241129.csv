@@ -1,0 +1,67 @@
+CITY_NAME,CNTRY_NAME,FIPS_CNTRY,POP_updated,POP_updated_year,POP_SOURCE_updated,city_type,comments
+Al Ain,United Arab Emirates,AE,428620,2023,Abu Dhabi Census - 2023,Inland,
+Burgges,Belgium,BE,119869,2024,https://www.citypopulation.de/en/belgium/cities/,Inland,https://bestat.statbel.fgov.be/bestat/crosstable.xhtml?view=0187e818-1172-4f39-aade-53adf173f260
+Neum,Bosnia & Herzegovina,BK,4653,2013,https://www.citypopulation.de/en/bosnia/hercegovackoneretvanski/10685__neum/,Coastal,
+Varna,Bulgaria,BU,314607,2023,https://www.citypopulation.de/en/bulgaria/cities/,Coastal,Pop number @ city level
+,Brunei,BX,,,,,Most settlement are along thr coast line/ https://deps.mofe.gov.bn/DEPD%20Documents%20Library/DOS/POP/2023/RPT.pdf
+Sihanoukville,Cambodia,CB,71082,2019,https://www.citypopulation.de/en/cambodia/cities/,Coastal,
+Tartu,Estonia,EN,95190,2021,https://www.citypopulation.de/en/estonia/cities/,Inland,
+Assab,Eritrea,ER,44220,1997,https://www.citypopulation.de/en/eritrea/,Coastal,Pop data is very old. Still cannot find better source
+Batumi,Georgia,GG,169095,2020,https://www.citypopulation.de/en/georgia/cities/,Coastal,
+Linden,Guyana,GY,28674,2012,https://www.citypopulation.de/en/guyana/,Inland,https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Final_2012_Census_Count-1.pdf
+Al Faw,Iraq,IZ,35836,2018,https://www.citypopulation.de/en/iraq/cities/,Coastal,"There are some bigger cities near the coast, but this one is the nearest"
+Aqaba,Jordan,JO,179027,2023,PopulationEstimatesbyLocality.pdf,Coastal,
+Daugavpils,Latvia,LG,81074,2021,https://www.citypopulation.de/en/latvia/cities/,Inland,
+Klaipeda,Lithuania,LH,159403,2024,https://www.citypopulation.de/en/lithuania/cities/,Coastal,Suppliment for boundary: https://osp.stat.gov.lt/en/lietuvos-regionai-2021/zmones/demografija
+Budva,Montenegro,MJ,20168,2023,https://www.citypopulation.de/en/montenegro/cities/,Coastal,
+,Monaco,MN,,,,,
+Izki,Oman,MU,23159,2020,https://www.citypopulation.de/en/oman/cities/,Inland,
+Ash-Shaniyah (Al Shahaniya),Qatar,QA,67181,2020,https://www.citypopulation.de/en/qatar/cities/,Inland,
+Constanta,Romania,RO,263688,2021,https://www.citypopulation.de/en/romania/cities/,Coastal,Wiki to link to the source
+Koper,Slovenia,SI,25913,2022,https://www.citypopulation.de/en/slovenia/cities/,Coastal,
+Maliana,Timor Leste,TT,13078,2022,https://www.citypopulation.de/en/timor/cities/,Inland,Pop number @ urban level/ Will be Ermera if we take municipality level
+Odesa,Ukraine,UP,1010537,2022,https://www.citypopulation.de/en/ukraine/cities/?cityid=11002,Coastal,
+Moanda,"Congo, DRC",CG,74397,2004,https://www.citypopulation.de/en/drcongo/cities/,Coastal,Cannot find more updated data
+,Afghanistan,AF,,,,,
+Ganja,Azerbaijan,AJ,299100,2019,https://www.citypopulation.de/en/azerbaijan/cities/,Inland,
+Sevan,Armenia,AM,18705,2022,https://www.citypopulation.de/en/armenia/cities/,Inland,
+,Andorra,AN,,,,Inland,https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca
+Bregenz,Austria,AU,29643,2024,https://www.citypopulation.de/en/austria/cities/,In Land,
+Francistown,Botswana,BC,103417,2022,https://www.citypopulation.de/en/botswana/,Inland,"If we take Garabone Dam. If not, 2nd city could be Sowa"
+Copacabana,Bolivia,BL,17431,2024,https://www.citypopulation.de/en/bolivia/admin/la_paz/021701__copacabana/,Inland,Oruro with bigger poppulation 297497 but smaller lake/ Pop number @ Mun level
+Vileyka,Belarus,BO,26811,2023,https://www.citypopulation.de/en/belarus/cities/,Inland,
+,Bhutan,BT,,,,,No cities around the lake with proper population:distance (Bol [city])
+Gitega,Burundi,BY,41944,2008,https://www.citypopulation.de/en/burundi/cities/,Inland,
+,Chad,CD,35963,2009,https://www.citypopulation.de/en/chad/,Inland,No cities around the lake with proper population:distance (Bol [city])
+,Central African Republic,CT,,,,,No cities around the lake with proper population:distance
+Bahir Dar,Ethiopia,ET,350000,2022,https://www.citypopulation.de/en/ethiopia/cities/,Inland,
+,Czech Republic,EZ,,,,,No cities around the lake with proper population:distance
+Siófok,Hungary,HU,23742,2022,https://www.citypopulation.de/en/hungary/cities/,,Pop number not census/ 5174 Catchment area (Km2)
+Balykchy,Kyrgyzstan,KG,51487,2022,https://www.citypopulation.de/en/kyrgyzstan/cities/,,
+Atyray,Kazakhstan,KZ,316468,2023,https://www.citypopulation.de/en/kazakhstan/cities/,Inland,
+,Laos,LA,,,,,No cities around the lake with proper population:distance
+Michalovce,Slovakia,LO,35584,2023,https://www.citypopulation.de/en/slovakia/cities/,Inland,
+,Liechtenstein,LS,,,,,Country is too small
+,Lesotho,LT,,,,,No cities around the lake with proper population:distance
+Esch-sur-Sûre,Luxembourg,LU,3188,2024,https://www.citypopulation.de/en/luxembourg/cities/,Inland,"It is a commune, really small but have official website"
+Costesti,Moldova,MD,2028,2014,https://www.citypopulation.de/en/moldova/cities/,Inland,
+Khatgal,Mongolia,MG,3723,2021,https://www.citypopulation.de/en/mongolia/cities/,Inland,
+Karonga,Malawi,MI,61609,2018,https://www.citypopulation.de/en/malawi/cities/,Inland,
+Ohrid,North Macedonia,MK,38818,2021,https://www.citypopulation.de/en/northmacedonia/cities/,Inland,
+Raz El Ma,Mali,ML,4398,2009,https://www.citypopulation.de/en/mali/admin/goundam/6312__raz_el_ma/,Inland,"Another option would be Essakane, w smaller lake, but in the same area"
+N'Guigmi,Niger,NG,23670,2012,https://www.citypopulation.de/en/niger/cities/,Inland,Arikoukouri (1347ppl) would be closer to the lake but it is a village in N'Guimi
+Pokhara,Nepal,NP,513504,2021,https://www.citypopulation.de/en/nepal/cities/,Inland,
+,South Sudan,OD,,,,,No cities around the lake with proper population:distance
+Aregua,Paraguay,PA,70298,2022,https://www.citypopulation.de/en/paraguay/cities/,Inland,
+Zrenjanin,Serbia,RB,67129,2022,https://www.citypopulation.de/en/serbia/cities/,Inland,Belo Blato is closer but not on CP
+Gisenyi,Rwanda,RW,149209,2012,https://www.citypopulation.de/en/rwanda/cities/,Inland,
+,San Marino,SM,,,,,Country is too small with less than 1 sqkm lake
+Geneva,Switzerland,SZ,206635,2023,https://www.citypopulation.de/en/switzerland/cities/,Inland,
+Konibodom,Tajikistan,TI,54400,2022,https://www.citypopulation.de/en/tajikistan/cities/,Inland,Khujand is bigger but further away from the reservoir/ Guliston is right next to the reservoir but less POP
+Turkmenbashi ,Turkmenistan,TX,86800,2004,https://www.citypopulation.de/en/turkmenistan/,Inland,
+Mbarara,Uganda,UG,221300,2020,https://www.citypopulation.de/en/uganda/cities/,Inland,
+Kongoussi ,Burkina Faso,UV,53627,2019,https://www.citypopulation.de/en/burkinafaso/cities/,Inland,
+Kattakurgan,Uzbekistan,UZ,93423,2023,https://www.citypopulation.de/en/uzbekistan/cities/,Inland,"There are bigger lakes, but no cities around."
+,Eswatini,WZ,,,,,
+Sinazongwe,Zambia,ZA,15191,2022,https://www.citypopulation.de/en/zambia/cities/,Inland,Additional:https://zambia.opendataforafrica.org/ZMPHC2015/population-and-demographic-projections-2011-2035
+Kariba,Zimbabwe,ZI,27450,2022,https://www.citypopulation.de/en/zimbabwe/cities/,Inland,Additional: https://zimbabwe.opendataforafrica.org/fujalme/population-distribution-by-district-and-wards

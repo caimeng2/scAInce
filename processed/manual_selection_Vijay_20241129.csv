@@ -1,0 +1,54 @@
+﻿CITY_NAME,FIPS_CNTRY,POP_updated,POP_updated_year,POP_SOURCE_updated,city_type,comments
+AI Ain,AE,496205,2015,CityPopulation.de,inland,UAE
+Bruges,BE,58672,2024,be.STAT,coastal,Belgium
+Neum,BK,4358,2022,CityPopulation.de,coastal,Bosnia and Herzegovina
+Varna,BU,365995,2023,Population by towns and sex | National statistical institute,coastal,Bulgaria
+,BX,,,,,All cities in Brunei are coastal
+Sihanoukville,CB,73036,2019,Final General Population Census 2019-English.pdf,coastal,
+Moanda,CG,74397,2004,CityPopulation.de,coastal,Muanda or Moanda is the only coastal city- but its population data is not available anywhere except Wikipedia
+Tartu,EN,95190,2021,CityPopulation.de,inland,Estonia
+Assab,ER,44220,1997,CityPopulation.de,coastal,Eritrea
+Batumi,GG,169095,2020,CityPopulation.de,coastal,Georgia
+Linden,GY,28674,2012,CityPopulation.de,inland,Guyana
+Al Faw,IZ,35836,2018,CityPopulation.de,coastal,Masra in Iraq is not coastal by our definition as the distanve to the sea is around 70 km
+Al-'Aqabah,JO,148398,2015,CityPopulation.de,coastal,Jordan
+Daugavpils,LG,81074,2021,CityPopulation.de,inland,Latvia
+Klaipeda,LH,159403,2024,CityPopulation.de,coastal,Lithuania
+Budva,MJ,20168,2023,CityPopulation.de,coastal,Montenegro
+,MN,,,,,Monaco is a city state.
+Izki,MU,23159,2020,CityPopulation.de,inland,Oman
+Ash-Shaḥāniyah,QA,67181,2020,CityPopulation.de,inland,Qatar
+Constanta,RO,263688,2021,CityPopulation.de,coastal,Romania
+Koper,SI,25913,2022,CityPopulation.de,coastal,Slovenia
+Maliana,TT,13078,2022,CityPopulation.de,inland,East Timor
+Odesa,UP,1010537,2022,CityPopulation.de,coastal,Ukraine
+,AC,,,,,Antigua and Barbuda
+,BA,,,,,Riffa is a coastal city according to our definition.
+,BB,,,,,Area of Barbados is 432 sq. km. And has no inland cities.
+,BF,,,,,The Bahamas is a collection of small islands and all cities are coastal (biggest island is 3439 sq. km.)
+,BP,,,,,The solomon islands also has only coastal cities. The biggest island is 5309 sq. km.
+,CN,,,,,"In Comoros, all cities are coastal and inland settlements are very small. Comoros is 1146 sq. km."
+Assomada,CV,21297,2021,CityPopulation.de,inland,Cape Verde
+,DO,,,,,"In Dominico, all cities are along the coast (750 sq. km. Area)"
+,FJ,,,,,All cities in Fiji are along the coast. (the biggest island is 10388 sq. km.)
+,FM,,,,,All cities in Micronesia are along the coast. (344 sq. km.)
+,GJ,,,,,All cities are along the coast.
+Selfoss,IC,9812,2024,Municipalities and urban nuclei - Statistics Iceland,inland,Iceland
+,KR,,,,,All cities in Kiribati are coastal.
+Vacaos/Phoenix,MP,107433,2022,CityPopulation.de,inland,Mauritius
+,MT,,,,,All cities in Malta are coastal according to our definition.
+,NH,,,,,All cities in Vanutau are coastal.
+,NR,,,,,Nauru is too small an island to have a second city.
+,PS,,,,,Palau has only coastal cities.
+,RM,,,,,Marshall Islands have only costal cities.
+Antipolo,RP,879301,2020,CityPopulation.de,inland,Philippines
+,SC,,,,,All cities are costal in St. Kitts and Nevis.
+,SE,,,,,All cities in Seychelles are coastal.
+,SN,,,,,Singapore is a city state.
+L'Abbayée,ST,1355,2022,CityPopulation.de,inland,St. Lucia
+Arima,TD,33606,2011,CityPopulation.de,inland,Trinidad & Tobago
+,TN,,,,,Tonga is too small to have inland cities.
+Trinidade,TP,6685,2012,CityPopulation.de,inland,Sao Tome & Principe
+,TV,,,,,Tuvalu
+,VC,,,,,St. Vincent & the Grenadines
+,WS,,,,,Samoa

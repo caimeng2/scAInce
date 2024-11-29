@@ -1,0 +1,74 @@
+﻿CITY_NAME,CNTRY,FIPS_CNTRY,POP_updated,POP_updated_year,POP_SOURCE_updated,city_type,comments
+NA,Antigua & Barbuda,AC,,,,,"All Saints, 3900, CP, almost 10km to the ocean"
+NA,Bahrain,BA,,,,,"Ar-Rifā, 79550, CP, almost 5km"
+NA,Barbados,BB,,,,,"Saint George, 19767, CP, almost 10km to the ocean"
+NA,The Bahamas,BF,,,,,
+NA,Solomon Is.,BP,,,,,"Tigoa, 881, CP, less than 1000 and also 5km "
+NA,Comoros,CN,,,,,no city passed the criteria od population and distance
+Assomada,Cape Verde,CV,21297,2021,CP,inland,no city passed the criteria of population and distance
+NA,Dominica,DO,,,,,no city passed the criteria of population and distance
+NA,Fiji,FJ,,,,,no city passed the criteria of population and distance
+NA,Micronesia,FM,,,,,no city passed the criteria of population and distance
+NA,Grenada,GJ,,,,,all cities are coastal
+Selfoss,Iceland,IC,9812,2024,CP,inland,
+NA,Kiribati,KR,,,,,no city passed the criteria of population and distance
+Vacoas/Phoenix,Mauritius,MP,107433,2022,cp,inland,
+NA,Malta,MT,,,,,"if we consider the outter part of the ocean then Qormi, 18099, 2021"
+NA,Vanuatu,NH,,,,,no city passed the criteria of population and distance
+NA,Nauru,NR,,,,,too small - less than 4km
+NA,Palau,PS,,,,,all are coastal
+NA,Marshall Is.,RM,,,,,all are coastal - less than 1000
+Angeles,Philippines,RP,1598955,2020,cp,inland,red. I am not sure where to measure -  it is 30 km depending! Second is Baguio
+NA,St. Kitts & Nevis,SC,,,,,all are coastal
+NA,Seychelles,SE,,,,,all are coastal
+NA,Singapore,SN,,,,,"where to measure - Bishan, Tanglin, Tengah"
+L'Abbayée,St. Lucia,ST,1355,2022,cp,inland,all are coastal
+Arima,Trinidad & Tobago,TD,33606,2011,cp,inland,
+NA,Tonga,TN,,,,,all are coastal
+Trindade,Sao Tome & Principe,TP,6685,2012,cp,inland,all are coastal
+NA,Tuvalu,TV,,,,,all are coastal
+NA,St. Vincent & the Grenadines,VC,,,,,all are coastal
+NA,Samoa,WS,,,,,could not find it. Aleisa Sasa'e in Tuamasaga
+NA,Afghanistan,AF,,,,,Biggest lake: Hamun-e Helmand (dry) Ab-i-Estada: no direct city Band-e Amir -  has limited human habitation due to its protected status and rugged terrain.
+Gəncə,Azerbaijan,AJ,299100,2019,CP,inland,
+Sevan,Armenia,AM,18705,2020,CP,At Lake,Biggest body of water
+NA,Andorra,AN,,,,,"Estany de Juclà - no direct city. Llac d'Engolasters: 61,785.68 m²"
+Bregenz,Austria,AU,29643,2024,CP,Lake,
+NA,Botswana,BC,,,,,
+Oruro,Bolivia,BL,264943,2012,CP,inland,red. 214 km² - biggest lake has no near by cities (Lake Titicaca)
+Salihorsk,Belarus,BO,98590,2023,cp,inland,red. around 15 million (roughly) square meters - biggest lake has no near by cities (Narach Lake)
+NA,Bhutan,BT,,,,,
+Gitega,Burundi,BY,41944,2008,CP,inland,
+Bol,Chad,CD,35963,2009,CP,inland,
+NA,Central African Republic,CT,,,,,
+Bahir Dar,Ethiopia,ET,350000,2022,CP,inland,
+NA,Czech Republic,EZ,23742,2022,CP,inland,
+Siófok,Hungary,HU,,,,,
+Balykčy,Kyrgyzstan,KG,51487,2022,CP,inland,
+Almaty,Kazakhstan,KZ,2161797,2023,CP,inland,red.
+NA,Laos,LA,,,,,
+Michalovce,Slovakia,LO,35584,2023,cp,inland,33 km²
+NA,Liechtenstein,LS,,,,,
+NA,Lesotho,LT,,,,,413.9 km2
+Esch-sur-Sûre,Luxembourg,LU,3188,2024,CP,inland,
+NA,Moldova,MD,,,,,largest lake is 6.26 km²
+Chatgal,Mongolia,MG,3723,2021,CP,inland,
+Karonga,Malawi,MI,61609,2018,CP,inland,
+Ohrid,North Macedonia,MK,38818,2021,CP,inland,
+NA,Mali,ML,,,,,
+NA,Niger,NG,,,,,
+NA,Nepal,NP,,,,,
+NA,South Sudan,OD,,,,,
+NA,Paraguay,PA,,,,,28 square kilometers - Lake Ypoá 
+NA,Serbia,RB,,,,,5.6 km² - palićko
+Gisenyi,Rwanda,RW,149209,2012,CP,inland,
+NA,San Marino,SM,,,,,Lago di Faetano - 0.0036 km2
+Lausanne,Switzerland,SZ,144160,2023,CP,inland,
+Konibodom,Tajikistan,TI,54400,2022,CP,inland,"red. if not then Guliston, 16700, 2022"
+Türkmenbaşy,Turkmenistan,TX,63000,1995,CP,inland ,
+Mbarara,Uganda,UG,221300,2020,CP,inland,
+NA,Burkina Faso,UV,,,,,
+NA,Uzbekistan,UZ,,,,,
+NA,Eswatini,WZ,,,,,
+Siavonga,Zambia,ZA,"26,951",2022,CP,inland,
+Kariba,Zimbabwe,ZI,"27,450",2022,CP,inland,

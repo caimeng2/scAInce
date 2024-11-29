@@ -1,0 +1,193 @@
+CITY_NAME,FIPS_CNTRY,POP_updated,POP_updated_year,POP_SOURCE_updated,city_type,comments,coder,match
+,AC,,,,,"All Saints, 3900, CP, almost 10km to the ocean",hb,1
+,AC,,,,,Antigua and Barbuda,vj,1
+Al Ain,AE,496205.0,2015.0,CityPopulation.de,inland,UAE,vj,1
+Al Ain,AE,428620.0,2023.0,Abu Dhabi Census - 2023,Inland,,llt,1
+,AF,,,,,Biggest lake: Hamun-e Helmand (dry) Ab-i-Estada: no direct city Band-e Amir -  has limited human habitation due to its protected status and rugged terrain.,hb,1
+,AF,,,,,,llt,1
+Ganja,AJ,299100,2019.0,CP,inland,,hb,1
+Ganja,AJ,299100.0,2019.0,https://www.citypopulation.de/en/azerbaijan/cities/,Inland,,llt,1
+Sevan,AM,18705,2020.0,CP,At Lake,Biggest body of water,hb,1
+Sevan,AM,18705.0,2022.0,https://www.citypopulation.de/en/armenia/cities/,Inland,,llt,1
+,AN,,,,Inland,https://www.estadistica.ad/portal/apps/sites/#/estadistica-ca,llt,1
+,AN,,,,,"Estany de Juclà - no direct city. Llac d'Engolasters: 61,785.68 m²",hb,1
+Bregenz,AU,29643,2024.0,CP,Lake,,hb,1
+Bregenz,AU,29643.0,2024.0,https://www.citypopulation.de/en/austria/cities/,In Land,,llt,1
+,BA,,,,,Riffa is a coastal city according to our definition.,vj,1
+,BA,,,,,"Ar-Rifā, 79550, CP, almost 5km",hb,1
+,BB,,,,,Area of Barbados is 432 sq. km. And has no inland cities.,vj,1
+,BB,,,,,"Saint George, 19767, CP, almost 10km to the ocean",hb,1
+,BC,,,,,,hb,0
+Francistown,BC,103417.0,2022.0,https://www.citypopulation.de/en/botswana/,Inland,"If we take Garabone Dam. If not, 2nd city could be Sowa",llt,0
+Burgges,BE,119869.0,2024.0,https://www.citypopulation.de/en/belgium/cities/,Inland,https://bestat.statbel.fgov.be/bestat/crosstable.xhtml?view=0187e818-1172-4f39-aade-53adf173f260,llt,0
+Bruges,BE,58672.0,2024.0,be.STAT,coastal,Belgium,vj,0
+,BF,,,,,,hb,1
+,BF,,,,,The Bahamas is a collection of small islands and all cities are coastal (biggest island is 3439 sq. km.),vj,1
+Neum,BK,4653.0,2013.0,https://www.citypopulation.de/en/bosnia/hercegovackoneretvanski/10685__neum/,Coastal,,llt,1
+Neum,BK,4358.0,2022.0,CityPopulation.de,coastal,Bosnia and Herzegovina,vj,1
+Copacabana,BL,17431.0,2024.0,https://www.citypopulation.de/en/bolivia/admin/la_paz/021701__copacabana/,Inland,Oruro with bigger poppulation 297497 but smaller lake/ Pop number @ Mun level,llt,0
+Oruro,BL,264943,2012.0,CP,inland,red. 214 km² - biggest lake has no near by cities (Lake Titicaca),hb,0
+Vileyka,BO,26811.0,2023.0,https://www.citypopulation.de/en/belarus/cities/,Inland,,llt,0
+Salihorsk,BO,98590,2023.0,cp,inland,red. around 15 million (roughly) square meters - biggest lake has no near by cities (Narach Lake),hb,0
+,BP,,,,,The solomon islands also has only coastal cities. The biggest island is 5309 sq. km.,vj,1
+,BP,,,,,"Tigoa, 881, CP, less than 1000 and also 5km ",hb,1
+,BT,,,,,No cities around the lake with proper population:distance (Bol [city]),llt,1
+,BT,,,,,,hb,1
+Varna,BU,365995.0,2023.0,Population by towns and sex | National statistical institute,coastal,Bulgaria,vj,1
+Varna,BU,314607.0,2023.0,https://www.citypopulation.de/en/bulgaria/cities/,Coastal,Pop number @ city level,llt,1
+,BX,,,,,Most settlement are along thr coast line/ https://deps.mofe.gov.bn/DEPD%20Documents%20Library/DOS/POP/2023/RPT.pdf,llt,1
+,BX,,,,,All cities in Brunei are coastal,vj,1
+Gitega,BY,41944,2008.0,CP,inland,,hb,1
+Gitega,BY,41944.0,2008.0,https://www.citypopulation.de/en/burundi/cities/,Inland,,llt,1
+Sihanoukville,CB,71082.0,2019.0,https://www.citypopulation.de/en/cambodia/cities/,Coastal,,llt,1
+Sihanoukville,CB,73036.0,2019.0,Final General Population Census 2019-English.pdf,coastal,,vj,1
+,CD,35963.0,2009.0,https://www.citypopulation.de/en/chad/,Inland,No cities around the lake with proper population:distance (Bol [city]),llt,0
+Bol,CD,35963,2009.0,CP,inland,,hb,0
+Moanda,CG,74397.0,2004.0,CityPopulation.de,coastal,Muanda or Moanda is the only coastal city- but its population data is not available anywhere except Wikipedia,vj,1
+Moanda,CG,74397.0,2004.0,https://www.citypopulation.de/en/drcongo/cities/,Coastal,Cannot find more updated data,llt,1
+,CN,,,,,no city passed the criteria od population and distance,hb,1
+,CN,,,,,"In Comoros, all cities are coastal and inland settlements are very small. Comoros is 1146 sq. km.",vj,1
+,CT,,,,,No cities around the lake with proper population:distance,llt,1
+,CT,,,,,,hb,1
+Assomada,CV,21297,2021.0,CP,inland,no city passed the criteria of population and distance,hb,1
+Assomada,CV,21297.0,2021.0,CityPopulation.de,inland,Cape Verde,vj,1
+,DO,,,,,no city passed the criteria of population and distance,hb,1
+,DO,,,,,"In Dominico, all cities are along the coast (750 sq. km. Area)",vj,1
+Tartu,EN,95190.0,2021.0,https://www.citypopulation.de/en/estonia/cities/,Inland,,llt,1
+Tartu,EN,95190.0,2021.0,CityPopulation.de,inland,Estonia,vj,1
+Assab,ER,44220.0,1997.0,https://www.citypopulation.de/en/eritrea/,Coastal,Pop data is very old. Still cannot find better source,llt,1
+Assab,ER,44220.0,1997.0,CityPopulation.de,coastal,Eritrea,vj,1
+Bahir Dar,ET,350000,2022.0,CP,inland,,hb,1
+Bahir Dar,ET,350000.0,2022.0,https://www.citypopulation.de/en/ethiopia/cities/,Inland,,llt,1
+,EZ,,,,,No cities around the lake with proper population:distance,llt,1
+,EZ,23742,2022.0,CP,inland,,hb,1
+,FJ,,,,,All cities in Fiji are along the coast. (the biggest island is 10388 sq. km.),vj,1
+,FJ,,,,,no city passed the criteria of population and distance,hb,1
+,FM,,,,,All cities in Micronesia are along the coast. (344 sq. km.),vj,1
+,FM,,,,,no city passed the criteria of population and distance,hb,1
+Batumi,GG,169095.0,2020.0,https://www.citypopulation.de/en/georgia/cities/,Coastal,,llt,1
+Batumi,GG,169095.0,2020.0,CityPopulation.de,coastal,Georgia,vj,1
+,GJ,,,,,all cities are coastal,hb,1
+,GJ,,,,,All cities are along the coast.,vj,1
+Linden,GY,28674.0,2012.0,CityPopulation.de,inland,Guyana,vj,1
+Linden,GY,28674.0,2012.0,https://www.citypopulation.de/en/guyana/,Inland,https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Final_2012_Census_Count-1.pdf,llt,1
+Siófok,HU,23742.0,2022.0,https://www.citypopulation.de/en/hungary/cities/,,Pop number not census/ 5174 Catchment area (Km2),llt,1
+Siófok,HU,,,,,,hb,1
+Selfoss,IC,9812.0,2024.0,Municipalities and urban nuclei - Statistics Iceland,inland,Iceland,vj,1
+Selfoss,IC,9812,2024.0,CP,inland,,hb,1
+Al Faw,IZ,35836.0,2018.0,CityPopulation.de,coastal,Masra in Iraq is not coastal by our definition as the distanve to the sea is around 70 km,vj,1
+Al Faw,IZ,35836.0,2018.0,https://www.citypopulation.de/en/iraq/cities/,Coastal,"There are some bigger cities near the coast, but this one is the nearest",llt,1
+Aqaba,JO,179027.0,2023.0,PopulationEstimatesbyLocality.pdf,Coastal,,llt,0
+Al-'Aqabah,JO,148398.0,2015.0,CityPopulation.de,coastal,Jordan,vj,0
+Balykchy,KG,51487.0,2022.0,https://www.citypopulation.de/en/kyrgyzstan/cities/,,,llt,1
+Balykchy,KG,51487,2022.0,CP,inland,,hb,1
+,KR,,,,,All cities in Kiribati are coastal.,vj,1
+,KR,,,,,no city passed the criteria of population and distance,hb,1
+Almaty,KZ,2161797,2023.0,CP,inland,red.,hb,0
+Atyray,KZ,316468.0,2023.0,https://www.citypopulation.de/en/kazakhstan/cities/,Inland,,llt,0
+,LA,,,,,No cities around the lake with proper population:distance,llt,1
+,LA,,,,,,hb,1
+Daugavpils,LG,81074.0,2021.0,https://www.citypopulation.de/en/latvia/cities/,Inland,,llt,1
+Daugavpils,LG,81074.0,2021.0,CityPopulation.de,inland,Latvia,vj,1
+Klaipeda,LH,159403.0,2024.0,CityPopulation.de,coastal,Lithuania,vj,1
+Klaipeda,LH,159403.0,2024.0,https://www.citypopulation.de/en/lithuania/cities/,Coastal,Suppliment for boundary: https://osp.stat.gov.lt/en/lietuvos-regionai-2021/zmones/demografija,llt,1
+Michalovce,LO,35584.0,2023.0,https://www.citypopulation.de/en/slovakia/cities/,Inland,,llt,1
+Michalovce,LO,35584,2023.0,cp,inland,33 km²,hb,1
+,LS,,,,,Country is too small,llt,1
+,LS,,,,,,hb,1
+,LT,,,,,No cities around the lake with proper population:distance,llt,1
+,LT,,,,,413.9 km2,hb,1
+Esch-sur-Sûre,LU,3188,2024.0,CP,inland,,hb,1
+Esch-sur-Sûre,LU,3188.0,2024.0,https://www.citypopulation.de/en/luxembourg/cities/,Inland,"It is a commune, really small but have official website",llt,1
+Costesti,MD,2028.0,2014.0,https://www.citypopulation.de/en/moldova/cities/,Inland,,llt,0
+,MD,,,,,largest lake is 6.26 km²,hb,0
+Khatgal,MG,3723.0,2021.0,https://www.citypopulation.de/en/mongolia/cities/,Inland,,llt,0
+Chatgal,MG,3723,2021.0,CP,inland,,hb,0
+Karonga,MI,61609,2018.0,CP,inland,,hb,1
+Karonga,MI,61609.0,2018.0,https://www.citypopulation.de/en/malawi/cities/,Inland,,llt,1
+Budva,MJ,20168.0,2023.0,CityPopulation.de,coastal,Montenegro,vj,1
+Budva,MJ,20168.0,2023.0,https://www.citypopulation.de/en/montenegro/cities/,Coastal,,llt,1
+Ohrid,MK,38818,2021.0,CP,inland,,hb,1
+Ohrid,MK,38818.0,2021.0,https://www.citypopulation.de/en/northmacedonia/cities/,Inland,,llt,1
+,ML,,,,,,hb,0
+Raz El Ma,ML,4398.0,2009.0,https://www.citypopulation.de/en/mali/admin/goundam/6312__raz_el_ma/,Inland,"Another option would be Essakane, w smaller lake, but in the same area",llt,0
+,MN,,,,,Monaco is a city state.,vj,1
+,MN,,,,,,llt,1
+Vacoas/Phoenix,MP,107433,2022.0,cp,inland,,hb,1
+Vacoas/Phoenix,MP,107433.0,2022.0,CityPopulation.de,inland,Mauritius,vj,1
+,MT,,,,,"if we consider the outter part of the ocean then Qormi, 18099, 2021",hb,1
+,MT,,,,,All cities in Malta are coastal according to our definition.,vj,1
+Izki,MU,23159.0,2020.0,https://www.citypopulation.de/en/oman/cities/,Inland,,llt,1
+Izki,MU,23159.0,2020.0,CityPopulation.de,inland,Oman,vj,1
+,NG,,,,,,hb,0
+N'Guigmi,NG,23670.0,2012.0,https://www.citypopulation.de/en/niger/cities/,Inland,Arikoukouri (1347ppl) would be closer to the lake but it is a village in N'Guimi,llt,0
+,NH,,,,,All cities in Vanutau are coastal.,vj,1
+,NH,,,,,no city passed the criteria of population and distance,hb,1
+Pokhara,NP,513504.0,2021.0,https://www.citypopulation.de/en/nepal/cities/,Inland,,llt,0
+,NP,,,,,,hb,0
+,NR,,,,,too small - less than 4km,hb,1
+,NR,,,,,Nauru is too small an island to have a second city.,vj,1
+,OD,,,,,No cities around the lake with proper population:distance,llt,1
+,OD,,,,,,hb,1
+,PA,,,,,28 square kilometers - Lake Ypoá ,hb,0
+Aregua,PA,70298.0,2022.0,https://www.citypopulation.de/en/paraguay/cities/,Inland,,llt,0
+,PS,,,,,all are coastal,hb,1
+,PS,,,,,Palau has only coastal cities.,vj,1
+Al Shahaniya,QA,67181.0,2020.0,CityPopulation.de,inland,Qatar,vj,1
+Al Shahaniya,QA,67181.0,2020.0,https://www.citypopulation.de/en/qatar/cities/,Inland,,llt,1
+,RB,,,,,5.6 km² - palićko,hb,0
+Zrenjanin,RB,67129.0,2022.0,https://www.citypopulation.de/en/serbia/cities/,Inland,Belo Blato is closer but not on CP,llt,0
+,RM,,,,,all are coastal - less than 1000,hb,1
+,RM,,,,,Marshall Islands have only costal cities.,vj,1
+Constanta,RO,263688.0,2021.0,https://www.citypopulation.de/en/romania/cities/,Coastal,Wiki to link to the source,llt,1
+Constanta,RO,263688.0,2021.0,CityPopulation.de,coastal,Romania,vj,1
+Antipolo,RP,879301.0,2020.0,CityPopulation.de,inland,Philippines,vj,0
+Angeles,RP,1598955,2020.0,cp,inland,red. I am not sure where to measure -  it is 30 km depending! Second is Baguio,hb,0
+Gisenyi,RW,149209,2012.0,CP,inland,,hb,1
+Gisenyi,RW,149209.0,2012.0,https://www.citypopulation.de/en/rwanda/cities/,Inland,,llt,1
+,SC,,,,,All cities are costal in St. Kitts and Nevis.,vj,1
+,SC,,,,,all are coastal,hb,1
+,SE,,,,,All cities in Seychelles are coastal.,vj,1
+,SE,,,,,all are coastal,hb,1
+Koper,SI,25913.0,2022.0,https://www.citypopulation.de/en/slovenia/cities/,Coastal,,llt,1
+Koper,SI,25913.0,2022.0,CityPopulation.de,coastal,Slovenia,vj,1
+,SM,,,,,Country is too small with less than 1 sqkm lake,llt,1
+,SM,,,,,Lago di Faetano - 0.0036 km2,hb,1
+,SN,,,,,"where to measure - Bishan, Tanglin, Tengah",hb,1
+,SN,,,,,Singapore is a city state.,vj,1
+L'Abbayée,ST,1355.0,2022.0,CityPopulation.de,inland,St. Lucia,vj,1
+L'Abbayée,ST,1355,2022.0,cp,inland,all are coastal,hb,1
+Geneva,SZ,206635.0,2023.0,https://www.citypopulation.de/en/switzerland/cities/,Inland,,llt,0
+Lausanne,SZ,144160,2023.0,CP,inland,,hb,0
+Arima,TD,33606,2011.0,cp,inland,,hb,1
+Arima,TD,33606.0,2011.0,CityPopulation.de,inland,Trinidad & Tobago,vj,1
+Konibodom,TI,54400,2022.0,CP,inland,"red. if not then Guliston, 16700, 2022",hb,1
+Konibodom,TI,54400.0,2022.0,https://www.citypopulation.de/en/tajikistan/cities/,Inland,Khujand is bigger but further away from the reservoir/ Guliston is right next to the reservoir but less POP,llt,1
+,TN,,,,,all are coastal,hb,1
+,TN,,,,,Tonga is too small to have inland cities.,vj,1
+Trindade,TP,6685,2012.0,cp,inland,all are coastal,hb,1
+Trindade,TP,6685.0,2012.0,CityPopulation.de,inland,Sao Tome & Principe,vj,1
+Maliana,TT,13078.0,2022.0,CityPopulation.de,inland,East Timor,vj,1
+Maliana,TT,13078.0,2022.0,https://www.citypopulation.de/en/timor/cities/,Inland,Pop number @ urban level/ Will be Ermera if we take municipality level,llt,1
+,TV,,,,,Tuvalu,vj,1
+,TV,,,,,all are coastal,hb,1
+Turkmenbashi ,TX,86800.0,2004.0,https://www.citypopulation.de/en/turkmenistan/,Inland,,llt,0
+Türkmenbaşy,TX,63000,1995.0,CP,inland ,,hb,0
+Mbarara,UG,221300.0,2020.0,https://www.citypopulation.de/en/uganda/cities/,Inland,,llt,1
+Mbarara,UG,221300,2020.0,CP,inland,,hb,1
+Odesa,UP,1010537.0,2022.0,CityPopulation.de,coastal,Ukraine,vj,1
+Odesa,UP,1010537.0,2022.0,https://www.citypopulation.de/en/ukraine/cities/?cityid=11002,Coastal,,llt,1
+Kongoussi ,UV,53627.0,2019.0,https://www.citypopulation.de/en/burkinafaso/cities/,Inland,,llt,0
+,UV,,,,,,hb,0
+,UZ,,,,,,hb,0
+Kattakurgan,UZ,93423.0,2023.0,https://www.citypopulation.de/en/uzbekistan/cities/,Inland,"There are bigger lakes, but no cities around.",llt,0
+,VC,,,,,all are coastal,hb,1
+,VC,,,,,St. Vincent & the Grenadines,vj,1
+,WS,,,,,Samoa,vj,1
+,WS,,,,,could not find it. Aleisa Sasa'e in Tuamasaga,hb,1
+,WZ,,,,,,llt,1
+,WZ,,,,,,hb,1
+Siavonga,ZA,"26,951",2022.0,CP,inland,,hb,0
+Sinazongwe,ZA,15191.0,2022.0,https://www.citypopulation.de/en/zambia/cities/,Inland,Additional:https://zambia.opendataforafrica.org/ZMPHC2015/population-and-demographic-projections-2011-2035,llt,0
+Kariba,ZI,27450.0,2022.0,https://www.citypopulation.de/en/zimbabwe/cities/,Inland,Additional: https://zimbabwe.opendataforafrica.org/fujalme/population-distribution-by-district-and-wards,llt,1
+Kariba,ZI,"27,450",2022.0,CP,inland,,hb,1
