@@ -58,3 +58,4 @@ data/
 
 # excel files
 .xlsx
+processed/*.xlsx
