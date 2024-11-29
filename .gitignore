@@ -55,3 +55,6 @@ case_id.txt
 
 #  original geo data
 data/
+
+# excel files
+.xlsx
